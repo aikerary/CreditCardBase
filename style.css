@@ -9,22 +9,9 @@
 }
 
 .caja{
+    background-color: black;
     color: white;
-    border: 5px solid black;
-    padding: 10px 5px 20px 0px;
-    margin: 20px 50px 5px;
+    text-align: center;
     width: fit-content;
-    transition: all 0.5s;
-}
-
-.caja:hover{
-    transform: rotate(45deg);
-}
-
-.rojo{
-    background-color: red;
-}
-
-.azul{
-    background-color: blue;
+    display: inline-block;
 }
