@@ -1,0 +1,24 @@
+/* Create in the root some colors */
+
+/* Path: style.css */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.caja{
+    color: white;
+    border: 5px solid black;
+    padding: 10px 5px 20px;
+    margin: 20px 50px 5px;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.azul{
+    background-color: blue;
+}
