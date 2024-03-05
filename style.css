@@ -44,7 +44,7 @@ body{
 	width:450px;
 	height:285px;
 	border-radius:20px;
-	background:#1500ff;
+	background:#7284aa;
     margin: auto;
 	box-shadow:2px 2px rgba(0,0,0,.4);
 }
@@ -141,13 +141,14 @@ body{
 }
 .credit-card-wrap .credit-author{
 	padding-top:10px;
+    text-transform: uppercase;
 }
 .credit-card-wrap .mk-icon-sim{
 	width:55px;
 	height:40px;
 	margin:20px 0;
 	border-radius:8px;
-	background-color:#fdd76f;
+	background-color:#ffd950;
 }
 .credit-card-wrap .mk-icon-visa{
 	width:90px;
