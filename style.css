@@ -2,10 +2,12 @@
 
 /* Path: style.css */
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
+
+body{
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: -webkit-box;
+    height: 100vh;
 }
 
 .caja{
@@ -13,8 +15,5 @@
     color: white;
     text-align: center;
     width: fit-content;
-    /* Center the element */
-    /* With one line */
-    margin-left: auto;
-    margin-right: auto;
+    margin: auto;
 }
