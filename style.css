@@ -48,25 +48,7 @@ body{
     margin: auto;
 	box-shadow:2px 2px rgba(0,0,0,.4);
 }
-.credit-card-wrap .mk-icon-world-map{
-	top:0;
-	left:0;
-	right:0;
-	bottom:0;
-	width:100%;
-	height:100%;
-	overflow:hidden;
-	position:absolute;
-	border-radius:inherit;
-}
-.credit-card-wrap .mk-icon-world-map:before{
-	top:0;
-	left:0;
-	right:0;
-	bottom:0;
-	z-index:0;
-	background:rgba(0,0,0,.4);
-}
+
 .credit-card-wrap .credit-card-inner{
 	z-index:100;
 	padding:30px;
